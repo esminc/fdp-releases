@@ -1,5 +1,5 @@
 # ソフトウェアエンジニアが機械学習プロダクト開発を始めるときの心構え
-(CoverPag)[CoverPage.png]
+![CoverPag](CoverPage.png)
 
 ## これは何?
 
